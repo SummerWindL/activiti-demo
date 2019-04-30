@@ -1,6 +1,19 @@
 # activiti-demo
-activiti
+activiti BPMN
 
+## 环境准备
+
+STS + Activiti插件
+
+>安装插件
+
+eclipse里安装activiti插件网上教程一堆, 这里不多说, 两种方式
+在线安装, 链接是: http://www.activiti.org/designer/update
+这种方法我昨天在配置环境的时候, 链接一直打不开, 不知道现在怎么样了, 如果在线的方法不行,可以尝试使用第二种方法
+到 https://github.com/Activiti/Activiti-Designer/releases 里下载最新的 zip 包, 然后安装
+创建一个bpmn文件
+
+在eclipse里创建一个项目, 空项目即可, 在项目里找一个文件夹, 右键 -> New -> Other -> Activiti -> Activiti Diagram 输入一个名字就可以了
 
 ## 初始化表
 
