@@ -1,6 +1,8 @@
 # activiti-demo
 activiti BPMN
 
+感谢 朋也提供教程：https://tomoya92.github.io/2019/04/24/activiti-env/
+
 ## 环境准备
 
 STS + Activiti插件
