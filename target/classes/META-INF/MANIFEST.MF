@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-activiti-demo
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: yanl
+Implementation-Vendor-Id: com.activiti
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-activiti-demo
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    username: root
+    password: root
+    url: jdbc:mysql://192.168.0.108:3306/activiti-demo?useSSL=false&characterEncoding=utf8&serverTimezone=GMT%2B8&nullCatalogMeansCurrent=true
+  activiti:
+    database-schema-update: true
